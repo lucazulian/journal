@@ -10,6 +10,9 @@ intro: |
 ---
 
 
+## How to write a cold email (or at least how it works for me)
+
+
 In the last few weeks I've tried an experiment. I've written to a lot of interesting and notorious people in their relative field. 
 The reason of this experiment I will explain better in the future, but one things surprised me: **ALL** have responded to my emails.
 
