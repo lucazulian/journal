@@ -25,3 +25,4 @@ Here are a few things I’ve learned so far about interesting people. I think th
 - they have very little time so anything with friction gets sorted into a "later" bucket
 
 Which means a cold email, well crafted, is a great way to get attention. The magic is in writing it in a way (and having the body of work to back it up) that grabs attention.
+I don't have particular suggestions about how to write a good cold email, but for sure it has to be short, clear on who you are and what you ask.
