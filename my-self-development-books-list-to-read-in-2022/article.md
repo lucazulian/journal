@@ -12,10 +12,9 @@ intro: |
 ## My self-development books list to read in 2022
 
 
-I would like to share with you some of the books I want to read in 2022. The motivation is the same every year but now I want to try to accomplish something more, so writing down a formal list could be the first step.
+I want to share some of the books I want to read in 2022. The motivation is the same every year, but now I want to try to accomplish something more, so writing down a formal list could be the first step.
 
-I know that this list may look quite big. I have split the books into several categories based on what I want to enhance, just to make it easier to choose what to start with based on my needs.
-
+I know that this list may look quite big. I have split the books into several categories based on what I want to enhance to make it easier to choose what to start with based on my needs.
 
 #### how to become a better software developer
 
